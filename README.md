@@ -1,4 +1,3 @@
-# Alzheimers_Disease_prediction_JHU
 ## Title
 Predicting Alzheimer’s disease risk factors from the variant fingerprints of non-AD genes
 
