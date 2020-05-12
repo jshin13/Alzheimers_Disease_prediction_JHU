@@ -1,3 +1,5 @@
+<img scr='img/20200423_Final_project_poster.png'>
+
 ## Title
 Predicting Alzheimer’s disease risk factors from the variant fingerprints of non-AD genes
 
